@@ -8,7 +8,7 @@
 
   </a>
   <a href="heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatApp-Bot?tab=Deploy">
-    <img src="https://img.shields.io/heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatApp-Bot?color=ff69b4&label=Followers&style=plastic">
+    <img src="https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatApp-Bot?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
